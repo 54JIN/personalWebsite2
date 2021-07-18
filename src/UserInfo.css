@@ -1,0 +1,36 @@
+.UserInfo {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+}
+
+.UserInfo-details {
+    width: 55.208vw;
+    height: 60.365vh;
+    margin-left: 5.069vw;
+}
+
+.UserInfo img {
+    width: 32.153vw;
+    height: 60.365vh;
+    margin-left: 4.028vw;
+    margin-top: 4.028vh;
+    border-radius: 5%;
+}
+
+.UserInfo-header h1 {
+    font-family: 'Inria Serif', serif;
+    font-size: 7vh;
+    color: #A1841E;
+}
+
+.UserInfo-header h3 {
+    font-family: 'Hind', sans-serif;
+    font-size: 3.4vh;
+    color: #E87F1E;
+}
+
+.UserInfo-bio {
+    font-family: 'Hind', sans-serif;
+    color: black;
+}

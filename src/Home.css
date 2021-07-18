@@ -1,0 +1,19 @@
+.Home {
+    background-color: #231E40;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    width: 100vw;
+    height: 100vh;
+}
+
+.Home-content {
+    align-content: center;
+}
+
+.Home-content h1 {
+    text-align: center;
+}
+
+.Home-content p {
+    text-align: center;
+}

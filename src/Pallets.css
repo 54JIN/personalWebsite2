@@ -1,0 +1,40 @@
+.Pallets {
+    width: 19.7vw;
+    height: 63vh;
+    overflow: auto;
+    background-color: white;
+    border-radius: 30px;
+    margin-right: 5vw;
+}
+
+.Pallets h1 {
+    text-align: center;
+    background-color: #A1841E;
+    color: white;
+    padding-top: 3vh;
+    padding-bottom: 2vh;
+    margin-top: -1vh;
+    font-family: 'Manrope', sans-serif;
+}
+
+.Pallets h2 {
+    padding-left: 1.5vw;
+    padding-right: 1.5vw;
+    background-color: #BDB7A3;
+    color: white;
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+    margin-top: -2.7vh;
+    font-family: 'Manrope', sans-serif;
+}
+
+.Pallets p {
+    padding-left: 1.5vw;
+    padding-right: 1.5vw;
+    background-color: white;
+    color: black;
+    padding-top: 3vh;
+    padding-bottom: 1vh;
+    margin-top: -2.7vh;
+    font-family: 'Nixie One', cursive;
+}

@@ -1,6 +1,36 @@
 .UserInfo {
     width: 100vw;
     height: 100vh;
+}
+
+.Users-tabs {
+    text-align: center;
+    padding-top: 1vh;
+    background-color: #2F2447;
+    color: white;
+    padding-bottom: 1vh;
+    font-size: 2.3vh;
+    font-family: 'Montserrat', sans-serif;
+    padding-left: 6vw;
+}
+
+.tab-list {
+    padding-left: 0;
+}
+  
+.tab-list-item {
+    display: inline-block;
+    list-style: none;
+    margin-bottom: -1px;
+    padding: 0.5rem 0.75rem;
+    margin-right: 9.3vw;
+}
+  
+.tab-list-active {
+    color: #E87F1E;
+}
+
+.UserInfo-alignment {
     display: flex;
 }
 
@@ -11,11 +41,14 @@
 }
 
 .UserInfo img {
-    width: 32.153vw;
+    /* width: 32.153vw; */
+    width: auto;
     height: 60.365vh;
-    margin-left: 4.028vw;
+    margin-left: 2vw;
     margin-top: 4.028vh;
     border-radius: 5%;
+    padding: 20px;
+    box-shadow: 0 0 10px black;
 }
 
 .UserInfo-header h1 {
@@ -33,4 +66,6 @@
 .UserInfo-bio {
     font-family: 'Hind', sans-serif;
     color: black;
+    font-size: 22px;
+    opacity: 0.5;
 }

@@ -6,14 +6,39 @@
     height: 100vh;
 }
 
+.Home-tabs {
+    text-align: center;
+    padding-top: 1vh;
+    color: white;
+    padding-bottom: 1vh;
+    font-size: 2.3vh;
+    font-family: 'Montserrat', sans-serif;
+    padding-left: 6vw;
+}
+
+.tab-list {
+    padding-left: 0;
+}
+  
+.tab-list-item {
+    display: inline-block;
+    list-style: none;
+    margin-bottom: -1px;
+    padding: 0.5rem 0.75rem;
+}
+  
+.tab-list-active {
+    color: #E87F1E;
+}
+
 .Home-content {
-    align-content: center;
+    text-align: center;
 }
 
 .Home-content h1 {
-    text-align: center;
+    text-shadow: 8px 15px 25px #000000;
 }
 
 .Home-content p {
-    text-align: center;
+    margin-top: -5%;
 }

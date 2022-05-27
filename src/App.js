@@ -4,7 +4,7 @@ import WorkExperience from './WorkExperience';
 import PersonalProjects from './PersonalProjects';
 import Contact from './Contact';
 import React, {Component} from 'react';
-import photo from './deer.JPG';
+import photo from './profilePhoto.jpg';
 
 class App extends Component {
   render(){

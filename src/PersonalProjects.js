@@ -26,7 +26,7 @@ class PersonalProjects extends Component {
                     />
                     <Pallets 
                         title="Task Manager"
-                        language="React.js"
+                        language="Node.js | React.js"
                         description={project3}
                     />
                 </div>
